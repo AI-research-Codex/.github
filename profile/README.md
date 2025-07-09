@@ -1,17 +1,15 @@
-# [![AI-research-Codex][githubusercontent-logo]][github-AI-research-Codex]
+# Ok Wait For a Minute 
 
-### Manual
-[githubusercontent-logo]:(https://raw.githubusercontent.com/AI-research-Codex/unist/367da2e/logo.svg?AI-research-Codex=true)
+![Build]( https://github.com/remarkjs/remark/workflows/main/badge.svg)
+![Coverage]( https://img.shields.io/codecov/c/github/remarkjs/remark.svg)
+![Downloads]( https://img.shields.io/npm/dm/remark.svg)
+![Size]( https://img.shields.io/bundlejs/size/remark)
+![Sponsors]( https://opencollective.com/unified/sponsors/badge.svg)
+![Backers]( https://opencollective.com/unified/backers/badge.svg)
+![Chat]( https://img.shields.io/badge/chat-discussions-success.svg)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [AI-research-Codex](https://raw.githubusercontent.com/AI-research-Codex/AI-research-Codex/367da2e/logo.svg?sanitize=true)
-
-
---> [githubusercontent-logo]: https://raw.githubusercontent.com/AI-research-Codex/unist/367da2e/logo.svg?sanitize=true
+**AI-research-Codex** is a tool that transforms markdown with plugins.
+These plugins can inspect and change your markup.
+You can use AI-research-Codex on the server, the client, CLIs, deno, etc.
 
 
