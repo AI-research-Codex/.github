@@ -10,4 +10,6 @@
 🧙 Remember, you can do mighty things with the power of [AI-research-Codex](https://raw.githubusercontent.com/AI-research-Codex/AI-research-Codex/367da2e/logo.svg?sanitize=true)
 
 
--->
+--> [githubusercontent-logo]: https://raw.githubusercontent.com/syntax-tree/unist/367da2e/logo.svg?sanitize=true
+
+
