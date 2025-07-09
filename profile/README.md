@@ -1,4 +1,5 @@
-[githubusercontent-logo]: https://raw.githubusercontent.com/AI-research-Codex/unist/367da2e/logo.svg?AI-research-Codex=true
+### Manual
+[githubusercontent-logo]:(https://raw.githubusercontent.com/AI-research-Codex/unist/367da2e/logo.svg?AI-research-Codex=true)
 
 **Here are some ideas to get you started:**
 
@@ -6,5 +7,7 @@
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-AI-research-Codex)
+🧙 Remember, you can do mighty things with the power of [AI-research-Codex](https://raw.githubusercontent.com/syntax-tree/unist/367da2e/logo.svg?sanitize=true)
+
+
 -->
